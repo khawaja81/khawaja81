@@ -53,10 +53,8 @@
 
 ### 📂 Featured Projects
 
-- **[School-Management](https://github.com/khawaja81/School-Management)** – School management system (TypeScript)
-- **[Inventory](https://github.com/khawaja81/Inventory)** – Inventory management app (JavaScript)
-- **[MERNSTACK-FYP](https://github.com/khawaja81/MERNSTACK-FYP)** – MERN stack final year project
-- **[portfolio](https://github.com/khawaja81/portfolio)** – Personal portfolio website
+- **[School-Management](https://github.com/khawaja81/School-Management)** - AI-powered school management system: MERN + TypeScript, role-based portals, Gemini AI assistant, PDF report cards, Docker, GitHub Actions CI/CD
+- **[Inventory](https://github.com/khawaja81/Inventory)** - AI-powered inventory management system: MERN stack, real-time Socket.IO alerts, demand forecasting, QR/barcode scanning, Swagger API docs, Jest tests, Docker
 
 ### 📫 Let's Work Together
 
