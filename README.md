@@ -13,6 +13,7 @@
 
 - 💼 Full stack developer with **4+ years** of experience building internal business applications for a manufacturing and export company
 - 🏭 Built systems like **AQL inspection**, **PO booking workflows**, **inventory**, **HRMS** and **reporting dashboards**
+- ☕ Built **Java / Spring Boot + Angular** applications, including a Football Academy management system and a Banking management system
 - 🗄️ Strong with **SQL Server** database design, reporting and query optimization
 - 🤖 Currently building **AI + n8n workflow automations** for businesses
 - 🌍 Available for **remote freelance projects** worldwide
@@ -31,6 +32,10 @@
 
 **Production experience**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,8 +47,6 @@
 
 **Also working with**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
