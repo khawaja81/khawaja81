@@ -55,6 +55,9 @@
 
 - **[School-Management](https://github.com/khawaja81/School-Management)** - AI-powered school management system: MERN + TypeScript, role-based portals, Gemini AI assistant, PDF report cards, Docker, GitHub Actions CI/CD
 - **[Inventory](https://github.com/khawaja81/Inventory)** - AI-powered inventory management system: MERN stack, real-time Socket.IO alerts, demand forecasting, QR/barcode scanning, Swagger API docs, Jest tests, Docker
+- **[01-price-tracker](https://github.com/khawaja81/01-price-tracker)** - Python e-commerce price tracker: scrapes products, tracks price history, detects changes, generates a formatted Excel report
+- **[02-business-leads-scraper](https://github.com/khawaja81/02-business-leads-scraper)** - B2B lead generator (any city + category) using the OpenStreetMap API, exported to clean CSV/Excel
+- **[03-hidden-api-scraper](https://github.com/khawaja81/03-hidden-api-scraper)** - Fast data extraction by calling a site's hidden JSON API, benchmarked against Playwright browser automation
 
 ### 📫 Let's Work Together
 
